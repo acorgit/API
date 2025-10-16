@@ -1,3 +1,3 @@
-# Base repository for API projects
+# Spring Boot API
 
-This repository is expected to be empty, using the branches as templates of a project
+This is a Spring Boot API project
