@@ -1,3 +1,3 @@
-# Base repository for API projects
+# FastApi 
 
-This repository is expected to be empty, using the branches as templates of a project
+This is a FastApi project
